@@ -129,7 +129,3 @@ The project uses:
 4. Add tests for new functionality
 5. Ensure all tests pass
 6. Submit a pull request
-
-## License
-
-This project is open source and available under the MIT License.
